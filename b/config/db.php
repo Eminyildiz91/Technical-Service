@@ -2,8 +2,8 @@
 session_start(); // Oturum başlatma
 
 $host = 'localhost';
-$dbname = 'eminyild_tsc';
-$user = 'eminyild_tsc';
+$dbname = 'tsc';
+$user = 'tsc';
 $pass = 'zubzero12345';
 
 // Veritabanı bağlantısı
